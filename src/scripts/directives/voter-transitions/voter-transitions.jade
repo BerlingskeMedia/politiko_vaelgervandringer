@@ -1,0 +1,19 @@
+nav(role="navigation")
+  left-side
+    button.btn(ng-click="showMenu = true")
+      span VÆLG PARTI
+    p.info.hidden-xs Tabellen viser brutto til- og fragang af vælgere.
+  right-side
+    p
+      | Periode: &nbsp;
+      strong fra valget 2011 til oktober 2014
+    p.info Grafikken viser netto til- og fragang af vælgere.
+.clearfix
+transition-view
+  transition-chart(ng-swipe-left="changeParti('next')" ng-swipe-right="changeParti('prev')")
+    swipe-guide
+      img(src="/upload/tcarlsen/voter-transitions/img/swipe-icon.png" srcset="/upload/tcarlsen/voter-transitions/img/swipe-icon@2x.png 2x")
+  p.info.visible-xs Tabellen viser brutto til- og fragang af vælgere.
+  transition-table
+  .clearfix
+transition-menu(ng-show="showMenu")

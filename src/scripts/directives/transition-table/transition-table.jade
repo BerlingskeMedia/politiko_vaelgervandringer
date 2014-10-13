@@ -1,0 +1,140 @@
+table.gain
+  thead
+    tr
+      th(colspan="2") FÅET FRA:
+      th
+        |Antal
+        |vælgere
+      th
+        |Antal
+        |mandater
+  tbody
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/a_small.png" srcset="/upload/tcarlsen/voter-transitions/img/a_small@2x.png 2x")
+      td(ng-click="parti = 'a'") Socialdemokraterne
+      td {{transitions[parti].a['tilgang_vælgere'] | number | positive}}
+      td {{transitions[parti].a.tilgang_mandater | number}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/b_small.png" srcset="/upload/tcarlsen/voter-transitions/img/b_small@2x.png 2x")
+      td(ng-click="parti = 'b'") Radikale Venstre
+      td {{transitions[parti].b['tilgang_vælgere'] | number}}
+      td {{transitions[parti].b.tilgang_mandater | number}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/c_small.png" srcset="/upload/tcarlsen/voter-transitions/img/c_small@2x.png 2x")
+      td(ng-click="parti = 'c'") Konservative
+      td {{transitions[parti].c['tilgang_vælgere'] | number}}
+      td {{transitions[parti].c.tilgang_mandater | number}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/f_small.png" srcset="/upload/tcarlsen/voter-transitions/img/f_small@2x.png 2x")
+      td(ng-click="parti = 'f'") Socialistisk Folkeparti
+      td {{transitions[parti].f['tilgang_vælgere'] | number}}
+      td {{transitions[parti].f.tilgang_mandater | number}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/i_small.png" srcset="/upload/tcarlsen/voter-transitions/img/i_small@2x.png 2x")
+      td(ng-click="parti = 'i'") Liberal Alliance
+      td {{transitions[parti].i['tilgang_vælgere'] | number}}
+      td {{transitions[parti].i.tilgang_mandater | number}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/k_small.png" srcset="/upload/tcarlsen/voter-transitions/img/k_small@2x.png 2x")
+      td(ng-click="parti = 'k'") Kristendemokraterne
+      td {{transitions[parti].k['tilgang_vælgere'] | number}}
+      td {{transitions[parti].k.tilgang_mandater | number}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/o_small.png" srcset="/upload/tcarlsen/voter-transitions/img/o_small@2x.png 2x")
+      td(ng-click="parti = 'o'") Dansk Folkeparti
+      td {{transitions[parti].o['tilgang_vælgere'] | number}}
+      td {{transitions[parti].o.tilgang_mandater | number}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/v_small.png" srcset="/upload/tcarlsen/voter-transitions/img/v_small@2x.png 2x")
+      td(ng-click="parti = 'v'") Venstre
+      td {{transitions[parti].v['tilgang_vælgere'] | number}}
+      td {{transitions[parti].v.tilgang_mandater | number}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/ø_small.png" srcset="/upload/tcarlsen/voter-transitions/img/ø_small@2x.png 2x")
+      td(ng-click="parti = 'ø'") Enhedslisten
+      td {{transitions[parti]['ø']['tilgang_vælgere'] | number}}
+      td {{transitions[parti]['ø'].tilgang_mandater | number}}
+    tr
+      td &nbsp;
+      td Nye vælgere
+      td {{transitions[parti]['nye_vælgere']['tilgang_vælgere'] | number}}
+      td {{transitions[parti]['nye_vælgere'].tilgang_mandater | number}}
+table.lost
+  thead
+    tr
+      th(colspan="2") MISTET TIL:
+      th
+        |Antal
+        |vælgere
+      th
+        |Antal
+        |mandater
+  tbody
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/a_small.png" srcset="/upload/tcarlsen/voter-transitions/img/a_small@2x.png 2x")
+      td(ng-click="parti = 'a'") Socialdemokraterne
+      td {{transitions[parti].a['afgang_vælgere'] | number | positive}}
+      td {{transitions[parti].a.afgang_mandater | number | positive}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/b_small.png" srcset="/upload/tcarlsen/voter-transitions/img/b_small@2x.png 2x")
+      td(ng-click="parti = 'b'") Radikale Venstre
+      td {{transitions[parti].b['afgang_vælgere'] | number | positive}}
+      td {{transitions[parti].b.afgang_mandater | number | positive}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/c_small.png" srcset="/upload/tcarlsen/voter-transitions/img/c_small@2x.png 2x")
+      td(ng-click="parti = 'c'") Konservative
+      td {{transitions[parti].c['afgang_vælgere'] | number | positive}}
+      td {{transitions[parti].c.afgang_mandater | number | positive}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/f_small.png" srcset="/upload/tcarlsen/voter-transitions/img/f_small@2x.png 2x")
+      td(ng-click="parti = 'f'") Socialistisk Folkeparti
+      td {{transitions[parti].f['afgang_vælgere'] | number | positive}}
+      td {{transitions[parti].f.afgang_mandater | number | positive}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/i_small.png" srcset="/upload/tcarlsen/voter-transitions/img/i_small@2x.png 2x")
+      td(ng-click="parti = 'i'") Liberal Alliance
+      td {{transitions[parti].i['afgang_vælgere'] | number | positive}}
+      td {{transitions[parti].i.afgang_mandater | number | positive}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/k_small.png" srcset="/upload/tcarlsen/voter-transitions/img/k_small@2x.png 2x")
+      td(ng-click="parti = 'k'") Kristendemokraterne
+      td {{transitions[parti].k['afgang_vælgere'] | number | positive}}
+      td {{transitions[parti].k.afgang_mandater | number | positive}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/o_small.png" srcset="/upload/tcarlsen/voter-transitions/img/o_small@2x.png 2x")
+      td(ng-click="parti = 'o'") Dansk Folkeparti
+      td {{transitions[parti].o['afgang_vælgere'] | number | positive}}
+      td {{transitions[parti].o.afgang_mandater | number | positive}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/v_small.png" srcset="/upload/tcarlsen/voter-transitions/img/v_small@2x.png 2x")
+      td(ng-click="parti = 'v'") Venstre
+      td {{transitions[parti].v['afgang_vælgere'] | number | positive}}
+      td {{transitions[parti].v.afgang_mandater | number | positive}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/ø_small.png" srcset="/upload/tcarlsen/voter-transitions/img/ø_small@2x.png 2x")
+      td(ng-click="parti = 'ø'") Enhedslisten
+      td {{transitions[parti]['ø']['afgang_vælgere'] | number | positive}}
+      td {{transitions[parti]['ø'].afgang_mandater | number | positive}}
+    tr
+      td &nbsp;
+      td Nye vælgere
+      td {{transitions[parti]['nye_vælgere']['afgang_vælgere'] | number | positive}}
+      td {{transitions[parti]['nye_vælgere'].afgang_mandater | number | positive}}

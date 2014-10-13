@@ -1,0 +1,11 @@
+{
+  "name": "voter-transitions",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.2.25",
+    "d3": "~3.4.11",
+    "angular-touch": "~1.2.25",
+    "modernizr": "~2.8.3",
+    "d3-tip": "~0.6.5"
+  }
+}

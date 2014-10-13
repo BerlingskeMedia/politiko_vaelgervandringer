@@ -1,0 +1,17 @@
+menu-header
+  menu-helper &nbsp; TRÆK MIG RUNDT
+  .close(ng-click="showMenu=false") &times;
+  .clearfix
+menu-selectors
+  .selector
+    ul.party
+      li.party(ng-class="{active: parti=='a'}" ng-click="parti = 'a'") Socialdemokraterne
+      li.party(ng-class="{active: parti=='b'}" ng-click="parti = 'b'") Radikale Venstre
+      li.party(ng-class="{active: parti=='c'}" ng-click="parti = 'c'") Konservative
+      li.party(ng-class="{active: parti=='f'}" ng-click="parti = 'f'") Socialistisk Folkeparti
+      li.party(ng-class="{active: parti=='i'}" ng-click="parti = 'i'") Liberal Alliance
+      li.party(ng-class="{active: parti=='k'}" ng-click="parti = 'k'") Kristendemokraterne
+      li.party(ng-class="{active: parti=='o'}" ng-click="parti = 'o'") Dansk Folkeparti
+      li.party(ng-class="{active: parti=='v'}" ng-click="parti = 'v'") Venstre
+      li.party(ng-class="{active: parti=='ø'}" ng-click="parti = 'ø'") Enhedslisten
+  .clearfix
