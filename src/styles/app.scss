@@ -203,7 +203,7 @@ voter-transitions {
 
     position: absolute;
     top: 140px;
-    width: 162px;
+    width: $width + 2;
     left: 0;
     transform: translate3d(0, 0, 0);
     border: 1px solid #000;
