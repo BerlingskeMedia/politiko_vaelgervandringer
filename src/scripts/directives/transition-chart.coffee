@@ -9,6 +9,7 @@ angular.module "transitionChartDirective", []
       partyColors =
         first:
           "ø": "#731525"
+          "å": "#5AFF5A"
           f: "#9c1d2a"
           a: "#e32f3b"
           b: "#e52b91"
@@ -19,6 +20,7 @@ angular.module "transitionChartDirective", []
           k: "#f0ac55"
         second:
           "ø": "#93494e"
+          "å": "#ACFFAC"
           f: "#b04b53"
           a: "#e54f5a"
           b: "#ec43a2"
