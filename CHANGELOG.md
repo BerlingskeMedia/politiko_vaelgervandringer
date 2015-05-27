@@ -1,4 +1,14 @@
 
+0.3.0 / 2015-05-27
+==================
+
+  * adding new data feed
+  * fixing the error where new voters was not showing in table
+  * adding ability to change period
+  * adding row for alternativet
+  * adding colors for alternativet
+  * new parti logos
+
 0.2.0 / 2015-03-30
 =========================
 
