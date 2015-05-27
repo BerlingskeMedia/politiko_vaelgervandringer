@@ -63,6 +63,12 @@ table.gain
       td(ng-click="parti = 'ø'") Enhedslisten
       td {{transitions[parti]['ø']['tilgang_vælgere'] | number}}
       td {{transitions[parti]['ø'].tilgang_mandater | number}}
+    tr(ng-show="transitions['å']")
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/å_small.png" srcset="/upload/tcarlsen/voter-transitions/img/å_small@2x.png 2x")
+      td(ng-click="parti = 'å'") Alternativet
+      td {{transitions[parti]['å']['tilgang_vælgere'] | number}}
+      td {{transitions[parti]['å'].tilgang_mandater | number}}
     tr
       td &nbsp;
       td Nye vælgere
@@ -133,8 +139,9 @@ table.lost
       td(ng-click="parti = 'ø'") Enhedslisten
       td {{transitions[parti]['ø']['afgang_vælgere'] | number | positive}}
       td {{transitions[parti]['ø'].afgang_mandater | number | positive}}
-    tr
-      td &nbsp;
-      td Nye vælgere
-      td {{transitions[parti]['nye_vælgere']['afgang_vælgere'] | number | positive}}
-      td {{transitions[parti]['nye_vælgere'].afgang_mandater | number | positive}}
+    tr(ng-show="transitions['å']")
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/å_small.png" srcset="/upload/tcarlsen/voter-transitions/img/å_small@2x.png 2x")
+      td(ng-click="parti = 'å'") Alternativer
+      td {{transitions[parti]['å']['afgang_vælgere'] | number | positive}}
+      td {{transitions[parti]['å'].afgang_mandater | number | positive}}
