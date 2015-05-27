@@ -5,6 +5,9 @@ angular.module "voterTransitionsDirective", []
     link: (scope, element, attr) ->
       parties = []
 
+      scope.parti = null
+      scope.update = 0
+
       scope.changeParti = (direction) ->
         currentIndex = parties.indexOf(scope.parti)
         newIndex = currentIndex + 1 if direction is 'next'
@@ -14,14 +17,22 @@ angular.module "voterTransitionsDirective", []
 
         scope.parti = parties[newIndex]
 
-      $http.get "/upload/tcarlsen/voter-transitions/data.json"
-        .then (response) ->
-          scope.transitions = response.data
-          scope.parti = "v"
+      scope.changePeriod = (feed, date) ->
+        parties = []
 
-          for parti, value of scope.transitions
-            if parti isnt "andre" and parti isnt "blå_blok" and parti isnt "rød_blok" and parti isnt ""
-              parties.push parti
+        $http.get "/upload/tcarlsen/voter-transitions/#{feed}.json"
+          .then (response) ->
+            scope.transitions = response.data
+            scope.date = date
+
+            if !scope.parti
+              scope.parti = "v"
+
+            for parti, value of scope.transitions
+              if parti isnt "andre" and parti isnt "blå_blok" and parti isnt "rød_blok" and parti isnt ""
+                parties.push parti
+
+            scope.update += 1
 
       if Modernizr.touch
         swipeGuide = element.find("swipe-guide")
@@ -29,3 +40,5 @@ angular.module "voterTransitionsDirective", []
         swipeGuide
           .addClass "active"
           .on "touchstart", -> swipeGuide.removeClass "active"
+
+      scope.changePeriod "data2", "fra valget 2011 til april 2015"

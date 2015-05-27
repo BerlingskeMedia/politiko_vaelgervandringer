@@ -57,10 +57,16 @@ angular.module "transitionChartDirective", []
         svg.selectAll("*").remove()
         render scope.transitions[scope.parti]
 
+      scope.$watch "update", ((newData, oldData) ->
+        return if angular.equals(newData, oldData)
+
+        render scope.transitions[scope.parti]
+      ), true
+
       scope.$watch "parti", ((newData, oldData) ->
         return if angular.equals(newData, oldData)
 
-        render scope.transitions[newData]
+        render scope.transitions[scope.parti]
       ), true
 
       render = (data) ->

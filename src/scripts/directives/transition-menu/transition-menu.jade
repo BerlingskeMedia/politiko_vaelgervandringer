@@ -16,5 +16,6 @@ menu-selectors
       li.party(ng-class="{active: parti=='ø'}" ng-click="parti = 'ø'") Enhedslisten
   .selector
     ul.period
-      li Valg 2011 til juni 2014
+      li(ng-click="changePeriod('data', 'fra valget 2011 til oktober 2014')") Valg 2011 til oktober 2014
+      li(ng-click="changePeriod('data2', 'fra valget 2011 til april 2015')") Valg 2011 til april 2015
   .clearfix
