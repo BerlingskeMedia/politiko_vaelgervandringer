@@ -69,7 +69,10 @@ angular.module "transitionChartDirective", []
         render scope.transitions[scope.parti]
       ), true
 
-      render = (data) ->
+      render = (transitions) ->
+        data = {}
+        angular.copy transitions, data
+
         svgWidth = d3.select(element[0])[0][0].offsetWidth
         svgHeight = d3.select(element[0])[0][0].offsetHeight
         plusMinusMargin = 20
