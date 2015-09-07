@@ -84,6 +84,22 @@ gulp.task('images', function () {
     .pipe(gulp.dest(dest + '/img'))
     .pipe(connect.reload());
 });
+/* JSON data files */
+gulp.task('datafiles', function () {
+  return gulp.src('datafiles/**')
+    .pipe(plumber())
+    .pipe(gulpif(!build, changed('datafiles')))
+    .pipe(gulp.dest(dest + '/'))
+    .pipe(connect.reload());
+});
+/* Index.html */
+gulp.task('html', function () {
+  return gulp.src('src/**/*.html')
+    .pipe(plumber())
+    .pipe(gulpif(!build, changed('src/**/*.html')))
+    .pipe(gulp.dest(dest + '/'))
+    .pipe(connect.reload());
+});
 /* Watch task */
 gulp.task('watch', function () {
   gulp.watch('src/**/*.coffee', ['scripts']);
@@ -109,7 +125,7 @@ gulp.task('build', function () {
   dest = 'build';
 
   del(dest);
-  gulp.start('scripts', 'styles', 'dom', 'images');
+  gulp.start('scripts', 'styles', 'dom', 'images', 'datafiles');
 });
 /* Default task */
-gulp.task('default', ['corsproxy', 'connect', 'scripts', 'styles', 'dom', 'images', 'watch']);
+gulp.task('default', ['corsproxy', 'connect', 'scripts', 'styles', 'dom', 'images', 'datafiles', 'html', 'watch']);
