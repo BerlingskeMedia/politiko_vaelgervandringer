@@ -41,4 +41,4 @@ angular.module "voterTransitionsDirective", []
           .addClass "active"
           .on "touchstart", -> swipeGuide.removeClass "active"
 
-      scope.changePeriod "data3", "fra valget 2015 til september 2015"
+      scope.changePeriod "data3", "fra valget 2011 til 17. juni 2015"
