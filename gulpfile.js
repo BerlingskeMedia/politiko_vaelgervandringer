@@ -86,18 +86,17 @@ gulp.task('images', function () {
 });
 /* JSON data files */
 gulp.task('datafiles', function () {
-  return gulp.src('datafiles/**')
+  return gulp.src('datafiles/*.json')
     .pipe(plumber())
-    .pipe(gulpif(!build, changed('datafiles')))
-    .pipe(gulp.dest(dest + '/'))
+    .pipe(gulp.dest(dest))
     .pipe(connect.reload());
 });
 /* Index.html */
 gulp.task('html', function () {
   return gulp.src('src/**/*.html')
     .pipe(plumber())
-    .pipe(gulpif(!build, changed('src/**/*.html')))
-    .pipe(gulp.dest(dest + '/'))
+    // .pipe(gulpif(!build, changed('src/**/*.html')))
+    .pipe(gulpif(!build, gulp.dest('app/')))
     .pipe(connect.reload());
 });
 /* Watch task */

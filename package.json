@@ -3,6 +3,9 @@
   "version": "0.3.0",
   "description": "a webtool for politiko.dk",
   "author": "tcarlsen",
+  "scripts": {
+    "postinstall" : "bower install"
+  },
   "devDependencies": {
     "corsproxy": "^0.2.14",
     "del": "^1.1.1",
