@@ -14,9 +14,11 @@ menu-selectors
       li.party(ng-class="{active: parti=='o'}" ng-click="parti = 'o'") Dansk Folkeparti
       li.party(ng-class="{active: parti=='v'}" ng-click="parti = 'v'") Venstre
       li.party(ng-class="{active: parti=='ø'}" ng-click="parti = 'ø'") Enhedslisten
+      li.party(ng-class="{active: parti=='å'}" ng-click="parti = 'å'") Alternativet
   .selector
     ul.period
       li(ng-click="changePeriod('data', 'fra valget 2011 til oktober 2014')") Valg 2011 til oktober 2014
       li(ng-click="changePeriod('data2', 'fra valget 2011 til april 2015')") Valg 2011 til april 2015
       li(ng-click="changePeriod('data3', 'fra valget 2011 til 17. juni 2015')") Valg 2011 til 17. juni 2015
+      li(ng-click="changePeriod('data4', 'fra 18. juni 2015 til februar 2016')") 18. juni 2015 til februar 2016
   .clearfix
