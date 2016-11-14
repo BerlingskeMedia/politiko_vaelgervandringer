@@ -2,7 +2,12 @@
   "name": "voter-transitions",
   "version": "0.3.0",
   "description": "a webtool for politiko.dk",
-  "author": "tcarlsen",
+  "author": "Berlingske Media",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BerlingskeMedia/voter-transitions"
+  },
   "scripts": {
     "postinstall" : "bower install"
   },
