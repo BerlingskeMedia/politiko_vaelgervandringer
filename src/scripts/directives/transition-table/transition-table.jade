@@ -29,6 +29,12 @@ table.gain
       td {{transitions[parti].c.tilgang_mandater | number}}
     tr
       td
+        img(src="/upload/tcarlsen/voter-transitions/img/d_small.png" srcset="/upload/tcarlsen/voter-transitions/img/d_small@2x.png 2x")
+      td(ng-click="parti = 'd'") Nye Borgerlige
+      td {{transitions[parti].d['tilgang_vælgere'] | number}}
+      td {{transitions[parti].d.tilgang_mandater | number}}
+    tr
+      td
         img(src="/upload/tcarlsen/voter-transitions/img/f_small.png" srcset="/upload/tcarlsen/voter-transitions/img/f_small@2x.png 2x")
       td(ng-click="parti = 'f'") Socialistisk Folkeparti
       td {{transitions[parti].f['tilgang_vælgere'] | number}}
@@ -103,6 +109,12 @@ table.lost
       td(ng-click="parti = 'c'") Konservative
       td {{transitions[parti].c['afgang_vælgere'] | number | positive}}
       td {{transitions[parti].c.afgang_mandater | number | positive}}
+    tr
+      td
+        img(src="/upload/tcarlsen/voter-transitions/img/d_small.png" srcset="/upload/tcarlsen/voter-transitions/img/d_small@2x.png 2x")
+      td(ng-click="parti = 'd'") Nye Borgerlige
+      td {{transitions[parti].d['afgang_vælgere'] | number | positive}}
+      td {{transitions[parti].d.afgang_mandater | number | positive}}
     tr
       td
         img(src="/upload/tcarlsen/voter-transitions/img/f_small.png" srcset="/upload/tcarlsen/voter-transitions/img/f_small@2x.png 2x")
