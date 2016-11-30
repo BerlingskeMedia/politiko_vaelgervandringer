@@ -48,6 +48,29 @@ The command `gulp watch`, although more convenient, doesn't currently work.
 There's also a method for working with the application while it's embedded in a
 page as it will be on the website, but this has yet to be documented.
 
+
+## Releasing to Production
+
+First you'll need to build the application with the correct build flag;
+
+```bash
+gulp build --production
+```
+
+Next, upload all files from the `build/` directory to the S3 bucket, either
+using a graphical S3 browser of your own choice, or the AWS CLI tools. This
+example shows a deployment using the CLI (it's assumed that you have obtained
+the correct access key ID and Secret beforehand);
+
+```bash
+# from the app root directory on your dev machine...
+cd build
+aws configure
+aws s3 --region=eu-west-1 sync --acl public-read . s3://bem-upload-bdk/upload/tcarlsen/voter-transitions/
+```
+
+When the upload is completed, the website will load the updated code on its own.
+
 ## License
 
 This code may only be used on [politiko.dk](http://www.politiko.dk) unless

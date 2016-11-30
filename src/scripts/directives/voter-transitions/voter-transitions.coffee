@@ -43,4 +43,4 @@ angular.module "voterTransitionsDirective", []
 
       # scope.changePeriod "data3", "fra valget 2011 til 17. juni 2015"
       # scope.changePeriod "data4", "fra 18. juni 2015 til februar 2016"
-      scope.changePeriod "data5", "fra oktober 2016 til november 2016"
+      scope.changePeriod "data5", "Vælgervandringer fra seneste folketingsvalg til oktober/november 2016"
