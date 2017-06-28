@@ -1,5 +1,7 @@
 # Vælgervandringer
 
+Aka. voter-transitions
+
 [https://berlingskemedia.atlassian.net/wiki/pages/viewpage.action?pageId=112132132](https://berlingskemedia.atlassian.net/wiki/pages/viewpage.action?pageId=112132132)
 
 The purpose of this application is to provide a simple, interactive graph
@@ -31,7 +33,7 @@ The application itself is hosted live in the following AWS S3 bucket;
 ## Contribute
 
 ```bash
-$ git clone https://github.com/tcarlsen/voter-transitions && cd voter-transitions
+$ git clone https://github.com/BerlingskeMedia/politiko_vaelgervandringer && cd politiko_vaelgervandringer
 $ npm install && bower install
 ```
 
