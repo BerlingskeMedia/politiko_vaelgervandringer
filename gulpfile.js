@@ -92,6 +92,11 @@ gulp.task('datafiles', function () {
     .pipe(gulp.dest(dest))
     .pipe(connect.reload());
 });
+/* Moving the local files to app */
+gulp.task('app', function () {
+  gulp.src('app_skeleton/**/*')
+  .pipe(gulp.dest('app'));
+});
 /* Index.html */
 gulp.task('html', function () {
   return gulp.src('src/**/*.html')
@@ -131,11 +136,11 @@ gulp.task('build', function () {
     build = false;
     dest = 'app/upload/tcarlsen/voter-transitions';
     console.log('Building into ./' + dest);
-    gulp.start('scripts', 'styles', 'dom', 'images', 'datafiles', 'html');
+    gulp.start('scripts', 'styles', 'dom', 'images', 'app', 'datafiles', 'html');
   }
 });
 
 gulp.task('serve', ['corsproxy', 'connect']);
 
 /* Default task */
-gulp.task('default', ['corsproxy', 'connect', 'scripts', 'styles', 'dom', 'images', 'datafiles', 'html', 'watch']);
+gulp.task('default', ['corsproxy', 'connect', 'scripts', 'styles', 'dom', 'images', 'app', 'datafiles', 'html', 'watch']);
