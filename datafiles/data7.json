@@ -1,0 +1,1822 @@
+{
+  "a": {
+    "a": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "b": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -13290,
+      "tilgang_vælgere": 12537,
+      "afgang_vælgere": -25828
+    },
+    "c": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -4296,
+      "tilgang_vælgere": 4596,
+      "afgang_vælgere": -8892
+    },
+    "d": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -460,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -460
+    },
+    "f": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 4372,
+      "tilgang_vælgere": 33498,
+      "afgang_vælgere": -29126
+    },
+    "i": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 13276,
+      "tilgang_vælgere": 13276,
+      "afgang_vælgere": 0
+    },
+    "k": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 386,
+      "tilgang_vælgere": 386,
+      "afgang_vælgere": 0
+    },
+    "o": {
+      "netto_tilgang_mandater": 2,
+      "tilgang_mandater": 3,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 41394,
+      "tilgang_vælgere": 61499,
+      "afgang_vælgere": -20105
+    },
+    "v": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 23149,
+      "tilgang_vælgere": 35190,
+      "afgang_vælgere": -12042
+    },
+    "ø": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 4269,
+      "tilgang_vælgere": 32502,
+      "afgang_vælgere": -28233
+    },
+    "å": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -12522,
+      "tilgang_vælgere": 12262,
+      "afgang_vælgere": -24784
+    },
+    "andre": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -2356,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -2356
+    },
+    "nye_vælgere": {
+      "netto_tilgang_mandater": 2,
+      "tilgang_mandater": 2,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 44551,
+      "tilgang_vælgere": 44551,
+      "afgang_vælgere": 0
+    },
+    "tvivlere": {
+      "netto_tilgang_mandater": -3,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -3,
+      "netto_tilgang_vælgere": -61885,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -61885
+    },
+    "rød_blok": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 4,
+      "afgang_mandater": -5,
+      "netto_tilgang_vælgere": -17171,
+      "tilgang_vælgere": 90799,
+      "afgang_vælgere": -107971
+    },
+    "blå_blok": {
+      "netto_tilgang_mandater": 3,
+      "tilgang_mandater": 5,
+      "afgang_mandater": -2,
+      "netto_tilgang_vælgere": 73449,
+      "tilgang_vælgere": 114948,
+      "afgang_vælgere": -41499
+    }
+  },
+  "b": {
+    "a": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 13290,
+      "tilgang_vælgere": 25828,
+      "afgang_vælgere": -12537
+    },
+    "b": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "c": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -3222,
+      "tilgang_vælgere": 2104,
+      "afgang_vælgere": -5326
+    },
+    "d": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "f": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "i": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 5819,
+      "tilgang_vælgere": 7970,
+      "afgang_vælgere": -2151
+    },
+    "k": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -370,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -370
+    },
+    "o": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 1186,
+      "tilgang_vælgere": 2156,
+      "afgang_vælgere": -970
+    },
+    "v": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 11110,
+      "tilgang_vælgere": 17650,
+      "afgang_vælgere": -6540
+    },
+    "ø": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 448,
+      "tilgang_vælgere": 2461,
+      "afgang_vælgere": -2013
+    },
+    "å": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 4010,
+      "tilgang_vælgere": 5787,
+      "afgang_vælgere": -1778
+    },
+    "andre": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -604,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -604
+    },
+    "nye_vælgere": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 17458,
+      "tilgang_vælgere": 17458,
+      "afgang_vælgere": 0
+    },
+    "tvivlere": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -17488,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -17488
+    },
+    "rød_blok": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 17748,
+      "tilgang_vælgere": 34076,
+      "afgang_vælgere": -16328
+    },
+    "blå_blok": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 14523,
+      "tilgang_vælgere": 29881,
+      "afgang_vælgere": -15357
+    }
+  },
+  "c": {
+    "a": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 4296,
+      "tilgang_vælgere": 8892,
+      "afgang_vælgere": -4596
+    },
+    "b": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 3222,
+      "tilgang_vælgere": 5326,
+      "afgang_vælgere": -2104
+    },
+    "c": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "d": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -3810,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -3810
+    },
+    "f": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 1755,
+      "tilgang_vælgere": 1755,
+      "afgang_vælgere": 0
+    },
+    "i": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 15990,
+      "tilgang_vælgere": 20631,
+      "afgang_vælgere": -4642
+    },
+    "k": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 995,
+      "tilgang_vælgere": 1422,
+      "afgang_vælgere": -426
+    },
+    "o": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 12216,
+      "tilgang_vælgere": 12904,
+      "afgang_vælgere": -688
+    },
+    "v": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 9845,
+      "tilgang_vælgere": 23460,
+      "afgang_vælgere": -13615
+    },
+    "ø": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "å": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 1281,
+      "tilgang_vælgere": 1281,
+      "afgang_vælgere": 0
+    },
+    "andre": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "nye_vælgere": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 6974,
+      "tilgang_vælgere": 6974,
+      "afgang_vælgere": 0
+    },
+    "tvivlere": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -4591,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -4591
+    },
+    "rød_blok": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 10554,
+      "tilgang_vælgere": 17255,
+      "afgang_vælgere": -6701
+    },
+    "blå_blok": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 2,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 35236,
+      "tilgang_vælgere": 58417,
+      "afgang_vælgere": -23180
+    }
+  },
+  "d": {
+    "a": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 460,
+      "tilgang_vælgere": 460,
+      "afgang_vælgere": 0
+    },
+    "b": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "c": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 3810,
+      "tilgang_vælgere": 3810,
+      "afgang_vælgere": 0
+    },
+    "d": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "f": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "i": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 22917,
+      "tilgang_vælgere": 22917,
+      "afgang_vælgere": 0
+    },
+    "k": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "o": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 32407,
+      "tilgang_vælgere": 32407,
+      "afgang_vælgere": 0
+    },
+    "v": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 7672,
+      "tilgang_vælgere": 7672,
+      "afgang_vælgere": 0
+    },
+    "ø": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 4564,
+      "tilgang_vælgere": 4564,
+      "afgang_vælgere": 0
+    },
+    "å": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "andre": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "nye_vælgere": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "tvivlere": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "rød_blok": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 5024,
+      "tilgang_vælgere": 5024,
+      "afgang_vælgere": 0
+    },
+    "blå_blok": {
+      "netto_tilgang_mandater": 3,
+      "tilgang_mandater": 3,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 66805,
+      "tilgang_vælgere": 66805,
+      "afgang_vælgere": 0
+    }
+  },
+  "f": {
+    "a": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -4372,
+      "tilgang_vælgere": 29126,
+      "afgang_vælgere": -33498
+    },
+    "b": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "c": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -1755,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -1755
+    },
+    "d": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "f": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "i": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 4516,
+      "tilgang_vælgere": 4516,
+      "afgang_vælgere": 0
+    },
+    "k": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -488,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -488
+    },
+    "o": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 839,
+      "tilgang_vælgere": 3887,
+      "afgang_vælgere": -3047
+    },
+    "v": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 3412,
+      "tilgang_vælgere": 4914,
+      "afgang_vælgere": -1502
+    },
+    "ø": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 9421,
+      "tilgang_vælgere": 34792,
+      "afgang_vælgere": -25371
+    },
+    "å": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 9846,
+      "tilgang_vælgere": 15877,
+      "afgang_vælgere": -6031
+    },
+    "andre": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "nye_vælgere": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 6701,
+      "tilgang_vælgere": 6701,
+      "afgang_vælgere": 0
+    },
+    "tvivlere": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -7898,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -7898
+    },
+    "rød_blok": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 3,
+      "afgang_mandater": -3,
+      "netto_tilgang_vælgere": 14895,
+      "tilgang_vælgere": 79795,
+      "afgang_vælgere": -64899
+    },
+    "blå_blok": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 6524,
+      "tilgang_vælgere": 13317,
+      "afgang_vælgere": -6793
+    }
+  },
+  "i": {
+    "a": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -13276,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -13276
+    },
+    "b": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -5819,
+      "tilgang_vælgere": 2151,
+      "afgang_vælgere": -7970
+    },
+    "c": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -15990,
+      "tilgang_vælgere": 4642,
+      "afgang_vælgere": -20631
+    },
+    "d": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -22917,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -22917
+    },
+    "f": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -4516,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -4516
+    },
+    "i": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "k": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "o": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -632,
+      "tilgang_vælgere": 4827,
+      "afgang_vælgere": -5459
+    },
+    "v": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -2,
+      "netto_tilgang_vælgere": -33141,
+      "tilgang_vælgere": 25542,
+      "afgang_vælgere": -58684
+    },
+    "ø": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "å": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -5371,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -5371
+    },
+    "andre": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "nye_vælgere": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 11548,
+      "tilgang_vælgere": 11548,
+      "afgang_vælgere": 0
+    },
+    "tvivlere": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -14774,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -14774
+    },
+    "rød_blok": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -28982,
+      "tilgang_vælgere": 2151,
+      "afgang_vælgere": -31133
+    },
+    "blå_blok": {
+      "netto_tilgang_mandater": -3,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -5,
+      "netto_tilgang_vælgere": -72680,
+      "tilgang_vælgere": 35012,
+      "afgang_vælgere": -107691
+    }
+  },
+  "k": {
+    "a": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -386,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -386
+    },
+    "b": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 370,
+      "tilgang_vælgere": 370,
+      "afgang_vælgere": 0
+    },
+    "c": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -995,
+      "tilgang_vælgere": 426,
+      "afgang_vælgere": -1422
+    },
+    "d": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "f": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 488,
+      "tilgang_vælgere": 488,
+      "afgang_vælgere": 0
+    },
+    "i": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "k": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "o": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -1717,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -1717
+    },
+    "v": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -57,
+      "tilgang_vælgere": 530,
+      "afgang_vælgere": -587
+    },
+    "ø": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -1359,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -1359
+    },
+    "å": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "andre": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "nye_vælgere": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "tvivlere": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -711,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -711
+    },
+    "rød_blok": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -887,
+      "tilgang_vælgere": 858,
+      "afgang_vælgere": -1745
+    },
+    "blå_blok": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -2770,
+      "tilgang_vælgere": 956,
+      "afgang_vælgere": -3726
+    }
+  },
+  "o": {
+    "a": {
+      "netto_tilgang_mandater": -2,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -3,
+      "netto_tilgang_vælgere": -41394,
+      "tilgang_vælgere": 20105,
+      "afgang_vælgere": -61499
+    },
+    "b": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -1186,
+      "tilgang_vælgere": 970,
+      "afgang_vælgere": -2156
+    },
+    "c": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -12216,
+      "tilgang_vælgere": 688,
+      "afgang_vælgere": -12904
+    },
+    "d": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -32407,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -32407
+    },
+    "f": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -839,
+      "tilgang_vælgere": 3047,
+      "afgang_vælgere": -3887
+    },
+    "i": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 632,
+      "tilgang_vælgere": 5459,
+      "afgang_vælgere": -4827
+    },
+    "k": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 1717,
+      "tilgang_vælgere": 1717,
+      "afgang_vælgere": 0
+    },
+    "o": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "v": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -2,
+      "netto_tilgang_vælgere": -23804,
+      "tilgang_vælgere": 26483,
+      "afgang_vælgere": -50287
+    },
+    "ø": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -119,
+      "tilgang_vælgere": 5521,
+      "afgang_vælgere": -5640
+    },
+    "å": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -5952,
+      "tilgang_vælgere": 4070,
+      "afgang_vælgere": -10021
+    },
+    "andre": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -3272,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -3272
+    },
+    "nye_vælgere": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 20495,
+      "tilgang_vælgere": 20495,
+      "afgang_vælgere": 0
+    },
+    "tvivlere": {
+      "netto_tilgang_mandater": -2,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -2,
+      "netto_tilgang_vælgere": -51459,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -51459
+    },
+    "rød_blok": {
+      "netto_tilgang_mandater": -2,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -4,
+      "netto_tilgang_vælgere": -49490,
+      "tilgang_vælgere": 33713,
+      "afgang_vælgere": -83203
+    },
+    "blå_blok": {
+      "netto_tilgang_mandater": -3,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -4,
+      "netto_tilgang_vælgere": -66077,
+      "tilgang_vælgere": 34348,
+      "afgang_vælgere": -100425
+    }
+  },
+  "v": {
+    "a": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -23149,
+      "tilgang_vælgere": 12042,
+      "afgang_vælgere": -35190
+    },
+    "b": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -11110,
+      "tilgang_vælgere": 6540,
+      "afgang_vælgere": -17650
+    },
+    "c": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -9845,
+      "tilgang_vælgere": 13615,
+      "afgang_vælgere": -23460
+    },
+    "d": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -7672,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -7672
+    },
+    "f": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -3412,
+      "tilgang_vælgere": 1502,
+      "afgang_vælgere": -4914
+    },
+    "i": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 2,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 33141,
+      "tilgang_vælgere": 58684,
+      "afgang_vælgere": -25542
+    },
+    "k": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 57,
+      "tilgang_vælgere": 587,
+      "afgang_vælgere": -530
+    },
+    "o": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 2,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 23804,
+      "tilgang_vælgere": 50287,
+      "afgang_vælgere": -26483
+    },
+    "v": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "ø": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 609,
+      "tilgang_vælgere": 1084,
+      "afgang_vælgere": -475
+    },
+    "å": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 2112,
+      "tilgang_vælgere": 2112,
+      "afgang_vælgere": 0
+    },
+    "andre": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -1027,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -1027
+    },
+    "nye_vælgere": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 17367,
+      "tilgang_vælgere": 17367,
+      "afgang_vælgere": 0
+    },
+    "tvivlere": {
+      "netto_tilgang_mandater": -2,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -2,
+      "netto_tilgang_vælgere": -52774,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -52774
+    },
+    "rød_blok": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -2,
+      "netto_tilgang_vælgere": -34950,
+      "tilgang_vælgere": 23279,
+      "afgang_vælgere": -58229
+    },
+    "blå_blok": {
+      "netto_tilgang_mandater": 2,
+      "tilgang_mandater": 5,
+      "afgang_mandater": -4,
+      "netto_tilgang_vælgere": 39485,
+      "tilgang_vælgere": 123173,
+      "afgang_vælgere": -83688
+    }
+  },
+  "ø": {
+    "a": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -4269,
+      "tilgang_vælgere": 28233,
+      "afgang_vælgere": -32502
+    },
+    "b": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -448,
+      "tilgang_vælgere": 2013,
+      "afgang_vælgere": -2461
+    },
+    "c": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "d": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -4564,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -4564
+    },
+    "f": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -9421,
+      "tilgang_vælgere": 25371,
+      "afgang_vælgere": -34792
+    },
+    "i": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "k": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 1359,
+      "tilgang_vælgere": 1359,
+      "afgang_vælgere": 0
+    },
+    "o": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 119,
+      "tilgang_vælgere": 5640,
+      "afgang_vælgere": -5521
+    },
+    "v": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -609,
+      "tilgang_vælgere": 475,
+      "afgang_vælgere": -1084
+    },
+    "ø": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "å": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 7460,
+      "tilgang_vælgere": 19793,
+      "afgang_vælgere": -12332
+    },
+    "andre": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -2478,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -2478
+    },
+    "nye_vælgere": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 13794,
+      "tilgang_vælgere": 13794,
+      "afgang_vælgere": 0
+    },
+    "tvivlere": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -13049,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -13049
+    },
+    "rød_blok": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 3,
+      "afgang_mandater": -3,
+      "netto_tilgang_vælgere": -6678,
+      "tilgang_vælgere": 75410,
+      "afgang_vælgere": -82087
+    },
+    "blå_blok": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -3696,
+      "tilgang_vælgere": 7474,
+      "afgang_vælgere": -11170
+    }
+  },
+  "å": {
+    "a": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 12522,
+      "tilgang_vælgere": 24784,
+      "afgang_vælgere": -12262
+    },
+    "b": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -4010,
+      "tilgang_vælgere": 1778,
+      "afgang_vælgere": -5787
+    },
+    "c": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -1281,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -1281
+    },
+    "d": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "f": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -9846,
+      "tilgang_vælgere": 6031,
+      "afgang_vælgere": -15877
+    },
+    "i": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 5371,
+      "tilgang_vælgere": 5371,
+      "afgang_vælgere": 0
+    },
+    "k": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "o": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 5952,
+      "tilgang_vælgere": 10021,
+      "afgang_vælgere": -4070
+    },
+    "v": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -2112,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -2112
+    },
+    "ø": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -7460,
+      "tilgang_vælgere": 12332,
+      "afgang_vælgere": -19793
+    },
+    "å": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "andre": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "nye_vælgere": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 3596,
+      "tilgang_vælgere": 3596,
+      "afgang_vælgere": 0
+    },
+    "tvivlere": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "rød_blok": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 2,
+      "afgang_mandater": -2,
+      "netto_tilgang_vælgere": -8794,
+      "tilgang_vælgere": 44925,
+      "afgang_vælgere": -53719
+    },
+    "blå_blok": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 7929,
+      "tilgang_vælgere": 15392,
+      "afgang_vælgere": -7462
+    }
+  },
+  "andre": {
+    "a": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 2356,
+      "tilgang_vælgere": 2356,
+      "afgang_vælgere": 0
+    },
+    "b": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 604,
+      "tilgang_vælgere": 604,
+      "afgang_vælgere": 0
+    },
+    "c": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "d": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "f": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "i": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "k": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "o": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 3272,
+      "tilgang_vælgere": 3272,
+      "afgang_vælgere": 0
+    },
+    "v": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 1027,
+      "tilgang_vælgere": 1027,
+      "afgang_vælgere": 0
+    },
+    "ø": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 2478,
+      "tilgang_vælgere": 2478,
+      "afgang_vælgere": 0
+    },
+    "å": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "andre": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "nye_vælgere": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "tvivlere": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": 0
+    },
+    "rød_blok": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 5438,
+      "tilgang_vælgere": 5438,
+      "afgang_vælgere": 0
+    },
+    "blå_blok": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 4298,
+      "tilgang_vælgere": 4298,
+      "afgang_vælgere": 0
+    }
+  },
+  "rød_blok": {
+    "a": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 5,
+      "afgang_mandater": -4,
+      "netto_tilgang_vælgere": 17171,
+      "tilgang_vælgere": 107971,
+      "afgang_vælgere": -90799
+    },
+    "b": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -17748,
+      "tilgang_vælgere": 16328,
+      "afgang_vælgere": -34076
+    },
+    "c": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -10554,
+      "tilgang_vælgere": 6701,
+      "afgang_vælgere": -17255
+    },
+    "d": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -5024,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -5024
+    },
+    "f": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 3,
+      "afgang_mandater": -3,
+      "netto_tilgang_vælgere": -14895,
+      "tilgang_vælgere": 64899,
+      "afgang_vælgere": -79795
+    },
+    "i": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 28982,
+      "tilgang_vælgere": 31133,
+      "afgang_vælgere": -2151
+    },
+    "k": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 887,
+      "tilgang_vælgere": 1745,
+      "afgang_vælgere": -858
+    },
+    "o": {
+      "netto_tilgang_mandater": 2,
+      "tilgang_mandater": 4,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 49490,
+      "tilgang_vælgere": 83203,
+      "afgang_vælgere": -33713
+    },
+    "v": {
+      "netto_tilgang_mandater": 1,
+      "tilgang_mandater": 2,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 34950,
+      "tilgang_vælgere": 58229,
+      "afgang_vælgere": -23279
+    },
+    "ø": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 3,
+      "afgang_mandater": -3,
+      "netto_tilgang_vælgere": 6678,
+      "tilgang_vælgere": 82087,
+      "afgang_vælgere": -75410
+    },
+    "å": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 2,
+      "afgang_mandater": -2,
+      "netto_tilgang_vælgere": 8794,
+      "tilgang_vælgere": 53719,
+      "afgang_vælgere": -44925
+    },
+    "andre": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -5438,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -5438
+    },
+    "nye_vælgere": {
+      "netto_tilgang_mandater": 4,
+      "tilgang_mandater": 4,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 86100,
+      "tilgang_vælgere": 86100,
+      "afgang_vælgere": 0
+    },
+    "tvivlere": {
+      "netto_tilgang_mandater": -4,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -4,
+      "netto_tilgang_vælgere": -100320,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -100320
+    },
+    "rød_blok": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 14,
+      "afgang_mandater": -14,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 325004,
+      "afgang_vælgere": -325004
+    },
+    "blå_blok": {
+      "netto_tilgang_mandater": 4,
+      "tilgang_mandater": 8,
+      "afgang_mandater": -3,
+      "netto_tilgang_vælgere": 98730,
+      "tilgang_vælgere": 181011,
+      "afgang_vælgere": -82281
+    }
+  },
+  "blå_blok": {
+    "a": {
+      "netto_tilgang_mandater": -3,
+      "tilgang_mandater": 2,
+      "afgang_mandater": -5,
+      "netto_tilgang_vælgere": -73449,
+      "tilgang_vælgere": 41499,
+      "afgang_vælgere": -114948
+    },
+    "b": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -14523,
+      "tilgang_vælgere": 15357,
+      "afgang_vælgere": -29881
+    },
+    "c": {
+      "netto_tilgang_mandater": -1,
+      "tilgang_mandater": 1,
+      "afgang_mandater": -2,
+      "netto_tilgang_vælgere": -35236,
+      "tilgang_vælgere": 23180,
+      "afgang_vælgere": -58417
+    },
+    "d": {
+      "netto_tilgang_mandater": -3,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -3,
+      "netto_tilgang_vælgere": -66805,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -66805
+    },
+    "f": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -6524,
+      "tilgang_vælgere": 6793,
+      "afgang_vælgere": -13317
+    },
+    "i": {
+      "netto_tilgang_mandater": 3,
+      "tilgang_mandater": 5,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 72680,
+      "tilgang_vælgere": 107691,
+      "afgang_vælgere": -35012
+    },
+    "k": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 2770,
+      "tilgang_vælgere": 3726,
+      "afgang_vælgere": -956
+    },
+    "o": {
+      "netto_tilgang_mandater": 3,
+      "tilgang_mandater": 4,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": 66077,
+      "tilgang_vælgere": 100425,
+      "afgang_vælgere": -34348
+    },
+    "v": {
+      "netto_tilgang_mandater": -2,
+      "tilgang_mandater": 4,
+      "afgang_mandater": -5,
+      "netto_tilgang_vælgere": -39485,
+      "tilgang_vælgere": 83688,
+      "afgang_vælgere": -123173
+    },
+    "ø": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 3696,
+      "tilgang_vælgere": 11170,
+      "afgang_vælgere": -7474
+    },
+    "å": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -1,
+      "netto_tilgang_vælgere": -7929,
+      "tilgang_vælgere": 7462,
+      "afgang_vælgere": -15392
+    },
+    "andre": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 0,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": -4298,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -4298
+    },
+    "nye_vælgere": {
+      "netto_tilgang_mandater": 2,
+      "tilgang_mandater": 2,
+      "afgang_mandater": 0,
+      "netto_tilgang_vælgere": 56384,
+      "tilgang_vælgere": 56384,
+      "afgang_vælgere": 0
+    },
+    "tvivlere": {
+      "netto_tilgang_mandater": -5,
+      "tilgang_mandater": 0,
+      "afgang_mandater": -5,
+      "netto_tilgang_vælgere": -124309,
+      "tilgang_vælgere": 0,
+      "afgang_vælgere": -124309
+    },
+    "rød_blok": {
+      "netto_tilgang_mandater": -4,
+      "tilgang_mandater": 3,
+      "afgang_mandater": -8,
+      "netto_tilgang_vælgere": -98730,
+      "tilgang_vælgere": 82281,
+      "afgang_vælgere": -181011
+    },
+    "blå_blok": {
+      "netto_tilgang_mandater": 0,
+      "tilgang_mandater": 13,
+      "afgang_mandater": -13,
+      "netto_tilgang_vælgere": 0,
+      "tilgang_vælgere": 318711,
+      "afgang_vælgere": -318711
+    }
+  }
+}
