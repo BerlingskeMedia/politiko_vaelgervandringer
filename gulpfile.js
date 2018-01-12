@@ -143,4 +143,4 @@ gulp.task('build', function () {
 gulp.task('serve', ['corsproxy', 'connect']);
 
 /* Default task */
-gulp.task('default', ['corsproxy', 'connect', 'scripts', 'styles', 'dom', 'images', 'app', 'datafiles', 'html', 'watch']);
+gulp.task('default', ['corsproxy', 'connect', 'scripts', 'styles', 'dom', 'images', 'datafiles', 'copy_app_skeleton', 'html', 'watch']);
